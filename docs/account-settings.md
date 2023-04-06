@@ -8,6 +8,6 @@ Now on the website, you’ll need to enter your Facebook app ID, app secret, and
 5. Click `Save` button when ID and permanent token are fetched.
 6. Click `Activate Streaming` button at the top of the settings page. You’ll receive your channel link once your request is approved by the admin.
 
-    ![Account Settings](/img/woost-7.png)
+    ![Account Settings](img/woost-7.png)
 
 <br>
